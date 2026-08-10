@@ -147,6 +147,4 @@ This is the moat question. If HCL stays reliant on IT services + cost advantage,
 
 
 
-That's where we assess management quality and whether capital is being deployed effectively.
 
-Or review Topic 5 first? 👇
