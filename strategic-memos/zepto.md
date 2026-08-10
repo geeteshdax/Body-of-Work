@@ -1,6 +1,6 @@
 # Zepto: Can It Actually Reach Breakeven?
 
-- The question: Zepto lost over ₹5,000 crore on an adjusted EBITDA basis in FY26. Blinkit, at similar scale, just crossed into profit. Is Zepto's path to adjusted EBITDA breakeven credible — and what does Blinkit's arrival prove about how far Zepto still has to go?
+The question: Zepto lost over ₹5,000 crore on an adjusted EBITDA basis in FY26. Blinkit, at similar scale, just crossed into profit. Is Zepto's path to adjusted EBITDA breakeven credible — and what does Blinkit's arrival prove about how far Zepto still has to go?
 
 ## The Judgment
 
@@ -24,7 +24,7 @@ Zepto can reach adjusted EBITDA breakeven, but not at its current expansion pace
 - The same maturation curve that made Blinkit profitable is visibly available to Zepto but deliberately unused.
 - Management misread its own distance to breakeven — the gap was several times wider than it guided.
 
-## What cuts against this
+## What's against this
 
 - Blinkit funds its expansion from its own profits; Zepto funds the same fight by burning outside money.
 - The profitable player can outspend the loss-making one indefinitely, and that advantage compounds every quarter.
