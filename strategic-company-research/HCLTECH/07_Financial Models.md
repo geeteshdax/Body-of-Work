@@ -133,6 +133,4 @@ Using PEG backward: P/E of 22x ÷ growth ÷ 2.2 PEG = growth rate implied
 | **Probability-Weighted** | **~₹1,100** | **₹1,312** | **–16%** | **HOLD / WAIT** |
 
 
-That's where we make the explicit call: when to buy, what to monitor, hard stops.
 
-Or review Topic 7 first? 👇
