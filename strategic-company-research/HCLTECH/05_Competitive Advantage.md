@@ -1,4 +1,4 @@
-# TOPIC 5: COMPETITIVE ADVANTAGE
+# COMPETITIVE ADVANTAGE
 
 **Read Time:** 8 minutes  
 **Key Takeaway:** HCL has four moat layers. Three are eroding. One (ER&D) is strengthening. Overall moat is moderate and narrowing.  
