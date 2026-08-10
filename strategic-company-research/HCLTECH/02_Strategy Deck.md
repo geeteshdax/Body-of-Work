@@ -268,6 +268,3 @@ graph TB
 
 
 
-That's where we explain HCL's business model, unit economics, and why pricing power is weak.
-
-Or review this first? 👇
