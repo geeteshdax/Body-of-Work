@@ -8,15 +8,15 @@ No quick-commerce business in India has a durable moat at the operating level. D
 
 The one advantage that has held up under stress isn't inside any quick-commerce business at all. It's whether that business sits next to a profitable sibling company that can fund it through a downturn. Blinkit draws on Eternal's food-delivery cash flow. Instamart draws on Swiggy's. Zepto, as a standalone pure-play, does not — and public markets are already pricing that gap directly into its IPO valuation.
 
-## Repository Structure
+## Structure
 
-- `Industry Situation Map.md` — market size, concentration, regulatory boundaries
-- `Structure & Competitive Dynamics.md` — industry-wide contribution margin and monetization trends
-- `The Profit Pool.md` — moat tested across consumer, supply-side, and infrastructure dimensions
-- `Forces & Constraints.md` — stress test against a renewed price war
-- `Scenarios.md` — consolidation signals and the parent-capital-access finding
-- `The Path Forward.md` — the integrated thesis
-- `quick_commerce_industry_report.md` — the final published report
+- Industry Situation Map.md — market size, concentration, regulatory boundaries
+- Structure & Competitive Dynamics.md — industry-wide contribution margin and monetization trends
+- The Profit Pool.md — moat tested across consumer, supply-side, and infrastructure dimensions
+- Forces & Constraints.md — stress test against a renewed price war
+- Scenarios.md — consolidation signals and the parent-capital-access finding
+- The Path Forward.md — the integrated thesis
+- quick_commerce_industry_report.md — the final published report
 
 ## Status
 
