@@ -28,11 +28,11 @@ Zepto · Quick Commerce
 
 **Frameworks**
 Two research systems built for consistent, evidence-based analysis.
-- StrategicMind — a six-stage process for structured 
+- StrategicMind: a six-stage process for structured 
   company research
-- AI-Assisted Business Valuation Framework — owner earnings, 
-  reverse DCF, and scenario modelling built to find what 
-  markets miss. Two price calls validated by the market.
+- AI-Assisted Business Valuation Framework: owner earnings, 
+  and scenario modelling built to find what markets miss. 
+  Two price calls validated by the market.
 
 **Retail Profitability Analysis**
 6 months of transaction data from a business I ran. 
