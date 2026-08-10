@@ -74,6 +74,3 @@ HCL is a **quality business at a premium price.**
 
 
 
-That shows HCL's competitive positioning in the IT services market and strategic challenges.
-
-Or would you like to review Topic 1 first before moving forward? 👇
