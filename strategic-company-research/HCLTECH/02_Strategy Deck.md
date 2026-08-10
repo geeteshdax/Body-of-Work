@@ -1,4 +1,4 @@
-# TOPIC 2: STRATEGY DECK
+# STRATEGY DECK
 
 **Read Time:** 8 minutes  
 **Key Takeaway:** HCL is caught between scale giants and specialty players. Its strategy is to diversify (AI, ER&D, products) while defending its core IT services base.  
