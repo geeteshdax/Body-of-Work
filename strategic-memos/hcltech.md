@@ -57,5 +57,3 @@ Low in absolute terms, but direction and timing both support.
 - A capability announced but not resourced is positioning, not commitment; the gap reveals which one this is.
 - Sustained capability-building separates a genuine repositioning from a narrative that fades when the pressure lifts.
 
-Datacenter second tranche	On balance sheet within 12 months	Real entry, or option lapsed
-"Advanced AI revenue" definition	Published boundary excluding legacy	KPI is honest, or a narrative instrument
