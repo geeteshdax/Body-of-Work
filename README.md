@@ -20,7 +20,7 @@ Sector-level analysis mapping structural dynamics, real moats,
 and long-run competitive positioning.
 Quick Commerce — complete. FMCG and D2C in progress.
 
-**strategic-memos**
+**Strategic Memos**
 Short-form written positions on specific business questions. 
 Each takes a view and defends it.
 HCL Technologies · HDFC Bank · Varun Beverages · 
