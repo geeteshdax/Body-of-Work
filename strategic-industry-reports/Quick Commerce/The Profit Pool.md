@@ -17,3 +17,4 @@
 - All three major players are building private label in the same categories, at the same time.
 - That parallel pursuit makes private label a margin lever for the industry, not a differentiator for any one player yet.
 
+<img width="2720" height="1520" alt="quick_commerce_profit_pool" src="https://github.com/user-attachments/assets/ea453f25-eecc-49ca-bf29-efd96a3c7447" />
