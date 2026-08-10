@@ -53,7 +53,7 @@ Strategy memos on specific business questions as they arise.
 ## Why This Matters
 
 Most analytical work produces outputs and stops there. 
-My goal is to provide a perspective & guide the high stakes decisions. 
+My goal is to provide a perspective & guide through high stakes decisions. 
 
 If you are building something where the quality of thinking 
 determines the quality of decisions and you need someone 
