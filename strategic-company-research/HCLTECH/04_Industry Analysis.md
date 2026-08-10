@@ -127,7 +127,3 @@ HCL's strategy is to escape the mid-tier trap by expanding ER&D and AI. If it wo
 This is the industry question. HCL is betting AI creates new, higher-margin work. Competitors are betting AI kills low-margin work without replacing it. Whoever is right determines industry margins for the next 5 years.
 
 
-
-That's where we assess HCL's moat—how durable is it? Can competitors crack it?
-
-Or review Topic 4 first? 👇
