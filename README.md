@@ -62,6 +62,3 @@ one — this is where that conversation starts.
 
 geeteshdaxina1@gmail.com
 linkedin.com/in/geetesh-daxina
-
-geeteshdaxina1@gmail.com
-linkedin.com/in/geetesh-daxina
