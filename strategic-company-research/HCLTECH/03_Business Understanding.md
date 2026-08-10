@@ -140,16 +140,6 @@ If HCL executes all three, fair value is ₹1,300–1,500. If it stays stuck in 
 | **Employee Attrition** | Industry avg ~15% | Stays <16% | Rises above 18% (talent war) |
 | **EBIT Margin** | 18.3–19% | Stays 18–20% | Falls below 17% (cost inflation winning) |
 
----
-
-## Strategic Question
-
-**If wage growth stays at 8–10% annually and billing rates stay flat, can HCL's margins stay above 17%? Or is 15–16% the floor, requiring a business model pivot (ER&D dominance, AI automation) to escape?**
-
-This is the core question. If margins collapse to 15%, fair value drops to ₹900–950 even if growth holds at 5–6%. Management is betting on the pivot (ER&D + AI). Market is betting the pivot doesn't work. That's why valuation is contested at ₹1,311.
 
 
 
-That's where we map the IT services sector—market size, growth, commoditization, competitive intensity.
-
-Or would you like to review Topic 3 first? 👇
