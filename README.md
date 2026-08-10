@@ -2,7 +2,7 @@
 This repository is not a portfolio. It is a record of how I think.
 
 Every file here started with one question: where does the 
-conventional reading of a business differ from what the 
+general reading of a business differ from what the 
 structure actually supports? The work is the answer.
 
 ---
