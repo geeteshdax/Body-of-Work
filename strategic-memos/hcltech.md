@@ -17,22 +17,22 @@ Most decisive obtainable evidence: whether TCS and Infosys have added AI-linked 
 
 ## What I Found
 
-### The capital contract is shady
+#### The capital contract is shady
 
 - CVK's line that the datacenter won't come "at the expense of our payout policy" restates a constraint.
 - HCLTech is genuinely shifting toward AI, but funding it from what's left over rather than reordering its priorities to pay for it.
 
-### R&D is a genuine break
+#### R&D is a genuine break
 
 - ₹544cr (1.13%) → ₹590cr (1.15%) → ₹802cr (1.46% of revenue). A 36% jump after two flat years, in the year the AI story intensified.
 Low in absolute terms, but direction and timing both support.
 
-### The acquisitions are deliberate
+#### The acquisitions are deliberate
 
 - Zeenea, Wobby, Finergic, then Jaspersoft ($240m) and Sarvam ($150m).
 - Its acquisitions are deliberate, each filling a named gap in a coherent data and AI stack rather than buying scale.
 
-### The datacenter is an option dressed as a strategy
+#### The datacenter is an option dressed as a strategy
 
 - The headline datacenter ambition is roughly ten times larger than what's actually been committed, with the rest left contingent.
 - 50MW full-stack implies ~₹30,000cr; HCLTech committed ₹3,500cr, with the rest contingent on partner financing and "how we deliver."
