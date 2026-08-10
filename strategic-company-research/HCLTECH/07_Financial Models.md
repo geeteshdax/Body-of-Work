@@ -1,4 +1,4 @@
-# TOPIC 7: FINANCIAL MODELS
+# FINANCIAL MODELS
 
 **Read Time:** 6 minutes  
 **Key Takeaway:** Fair value is ₹1,054–₹1,178 (base case, 5–6% growth). Market is pricing ₹1,389 (7–9% growth). Gap of 15–20% is the valuation risk.  
