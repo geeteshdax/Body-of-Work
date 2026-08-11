@@ -1,7 +1,7 @@
 # Body-of-Work
-This repository is not a portfolio. It is a record of how I think.
+This repository is the record of how i think.
 
-Every file here started with one question: where does the 
+Every research here started with one question: where does the 
 general reading of a business differ from what the 
 structure actually supports? 
 
