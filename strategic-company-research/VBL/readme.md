@@ -1,6 +1,6 @@
 # VARUN BEVERAGES LIMITED 
 
-## ONE-PAGE SUMMARY
+## SUMMARY
 
 **Who is VBL?** PepsiCo's largest bottler and distributor outside the US. Manufactures and sells Pepsi, Mountain Dew, Aquafina, Sting across India + Africa. 500K+ retail outlets, 56 bottling plants.
 
