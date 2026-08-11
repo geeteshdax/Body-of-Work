@@ -1,6 +1,6 @@
 # STRATEGY DECK
 
-**Read Time:** 8 minutes (visual-heavy)  
+**Read Time:** 8 minutes 
 **Key Takeaway:** HDFC's strategy is clear but constrained. Grow deposits + improve efficiency + recover margins. Execution is the only unknown.  
 **Who Should Read This:** Strategists understanding competitive positioning, founders learning from sector dynamics
 
