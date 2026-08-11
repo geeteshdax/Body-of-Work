@@ -83,12 +83,3 @@ VBL is in a **classic capex cycle:** Heavy investment in FY25–FY26, then capex
 
 Any of these would signal capital allocation failure.
 
-
----
-
-## Strategic Question
-
-**If Africa reaches only 12–15% ROCE (vs. 18–22% target), was ₹1,500–2,000 Cr capex justified? Or is it capital destroyed, requiring write-down in FY27–FY28?**
-
-This question will be answered by Q4 FY26 or Q2 FY27. That's when Africa profitability should inflect positive and investors can calculate actual ROCE. If it doesn't, fair value compresses sharply (₹100–150 downside from current ₹401).
-
