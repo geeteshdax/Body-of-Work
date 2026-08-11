@@ -10,9 +10,9 @@
 
 **What matters to you:** Capital allocation discipline and execution lessons. How does VBL deploy capital? What can you learn?
 
-**The insight:** VBL's capital strategy is rational but risky. The company is betting ₹3,000+ Cr on Africa (new geography, unproven ROCE, high capex). This is either brilliant (Africa ROCE 20%+, value created) or a missed opportunity (Africa ROCE 12%, capital wasted).
+**The insight:** VBL's capital strategy is rational but risky. The company is betting ₹3,000+ Cr on Africa (new geography, unproven ROCE, high capex). This is either brilliant or a missed opportunity.
 
-**The lesson:** Great founders make hard capital calls. VBL's leadership chose growth-via-capex over near-term FCF optimization. That takes conviction. But conviction ≠ correctness. The test comes in FY27–28 when Africa results mature.
+**The lesson:** Great founders make hard capital calls. VBL's leadership chose growth-via-capex. That takes conviction. But conviction ≠ correctness. The test comes in FY27–28 when Africa results mature.
 
 **What to study:** 
 - **How VBL manages the capex cycle.** It's deliberately sacrificing near-term FCF (declining despite 13% profit growth). This is the signature of a growth business. Most founders would panic. VBL's leadership stayed disciplined. That's capital allocation maturity.
